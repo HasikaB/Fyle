@@ -45,8 +45,3 @@ The application integrates with the GitHub API using two main endpoints:
 
 - **Customization:** The code and interface are customizable to suit specific project requirements and preferences.
 
-Feel free to modify and enhance the application based on your needs. For any questions or issues, refer to the troubleshooting section or contact the developer.
-
----
-
-This README provides a structured overview of the GitHub User Repository Viewer, aiding users in understanding its features and developers in navigating the codebase.
