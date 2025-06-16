@@ -5,7 +5,7 @@ The GitHub User Repository Viewer is an HTML application designed to provide use
 
 ## How to Use
 
-1. Open the HTML file (`index.html`):** Launch the application in a web browser.
+1. Open the HTML file (`index.html`): Launch the application in a web browser.
 
 2. Enter a GitHub username: Input the desired GitHub username in the provided text field.
 
